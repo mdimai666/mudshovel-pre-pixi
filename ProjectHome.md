@@ -1,0 +1,1 @@
+Mudshovel is a Palm WebOS Digg client built for both the Palm Pre and Palm Pixi. It will allow browsing and **eventually** digging of articles based on the available feed from Digg.com.
